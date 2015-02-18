@@ -12,6 +12,15 @@
   "bin": {
     "airport-lookup": "cli.js"
   },
+  "keyword": [
+    "airport",
+    "heliport",
+    "iata",
+    "poi",
+    "location",
+    "coordinates",
+    "json"
+  ],
   "files": [
     "index.js",
     "cli.js"
