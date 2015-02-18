@@ -26,7 +26,10 @@
     "url": "https://github.com/matiassingers/airport-lookup/issues"
   },
   "homepage": "https://github.com/matiassingers/airport-lookup",
-  "dependencies": {},
+  "dependencies": {
+    "airport-codes": "0.1.0",
+    "lodash.find": "3.0.0"
+  },
   "devDependencies": {
     "mocha": "2.1.0"
   }
