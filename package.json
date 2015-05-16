@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/matiassingers/airport-lookup",
   "dependencies": {
-    "airport-codes": "0.1.0",
+    "airports": "1.0.0",
     "lodash.find": "3.0.0"
   },
   "devDependencies": {

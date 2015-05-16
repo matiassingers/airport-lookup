@@ -1,8 +1,8 @@
 'use strict';
 
-var airportCodes = require('airport-codes');
+var airports = require('airports');
 var find = require('lodash.find');
 
 module.exports = function(code){
-  return find(airportCodes, {'iata': code.toUpperCase()});
+  return find(airports, {'iata': code.toUpperCase()});
 };
