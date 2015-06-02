@@ -37,9 +37,9 @@
   "homepage": "https://github.com/matiassingers/airport-lookup",
   "dependencies": {
     "airports": "1.0.0",
-    "lodash.find": "3.0.0"
+    "lodash.find": "3.2.1"
   },
   "devDependencies": {
-    "mocha": "2.1.0"
+    "mocha": "2.2.5"
   }
 }
